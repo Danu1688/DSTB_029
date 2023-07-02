@@ -1,5 +1,5 @@
 proxies:
-- name: Danu25_LiveMlbi29a
+- name: Danu25_LiveMlbi029a
   type: trojan
   server: 104.21.8.121
   port: 443
@@ -12,7 +12,7 @@ proxies:
     path: /trojan
     headers:
       Host: melbi2.myserver-prem.cloud
-- name: Danu25_LiveMlbi29b
+- name: Danu25_LiveMlbi029b
   type: trojan
   server: 172.67.139.111
   port: 443
@@ -25,7 +25,7 @@ proxies:
     path: /trojan
     headers:
       Host: melbi2.myserver-prem.cloud
-- name: Danu25_LiveMlbi29c
+- name: Danu25_LiveMlbi029c
   type: trojan
   server: beacon.liveon.id
   port: 443
