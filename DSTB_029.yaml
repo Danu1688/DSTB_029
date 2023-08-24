@@ -1,17 +1,17 @@
 proxies:
-- name: SvrTioGanda_LiveDO
+- name: TioGanda_LiveDO_1
   type: trojan
   server: 104.21.8.121
   port: 443
-  password: 4fc5ddd8-326d-4d25-a010-0e47fad15609
+  password: 182fd0f5-4b2d-47b4-acfc-abe56bb45da9
   udp: true
-  sni: sgdo1.dstb.cloud
+  sni: danu529.foryou-ssh.my.id
   skip-cert-verify: true
   network: ws
   ws-opts:
-    path: /trojanws
+    path: /trojan-ws
     headers:
-      Host: sgdo1.dstb.cloud
+      Host: danu529.foryou-ssh.my.id
 - name: Danu29_LiveBiznet29a
   type: trojan
   server: 104.21.8.121
