@@ -1,7 +1,7 @@
 proxies:
 - name: TioGanda_LiveDO_1
   type: trojan
-  server: 104.21.8.121
+  server: circles.asia
   port: 443
   password: 182fd0f5-4b2d-47b4-acfc-abe56bb45da9
   udp: true
