@@ -1,18 +1,5 @@
 proxies:
-- name: TioGandaNusa_LiveNusa_1
-  type: trojan
-  server: beacon.liveon.id
-  port: 443
-  password: 1f7b9950-598c-441c-bd78-58dbd65c5f9f
-  udp: true
-  sni: vpna4mvbhv.scpotato.me
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /trojan
-    headers:
-      Host: vpna4mvbhv.scpotato.me
-- name: TioGanda_LiveDO_1
+- name: TioGandaDo1A_Live_H1
   type: trojan
   server: circles.asia
   port: 443
@@ -25,7 +12,7 @@ proxies:
     path: /trojan-ws
     headers:
       Host: danu529.foryou-ssh.my.id
-- name: TrojanWsSvr-Live_1
+- name: TrojanWsDo1C-Live_H1
   type: trojan
   server: circles.asia
   port: 443
